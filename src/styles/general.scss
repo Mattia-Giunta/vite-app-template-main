@@ -1,0 +1,7 @@
+@use "./partials/variables" as *;
+@use "./partials/mixins" as *;
+
+h1 {
+    color: $font-color;
+    @include main-font-center;
+}

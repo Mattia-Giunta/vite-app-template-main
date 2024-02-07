@@ -1,0 +1,9 @@
+@mixin main-font-center {
+    text-align: center;
+    font-weight: bold;
+}
+
+@mixin main-font-start {
+    text-align: start;
+    font-weight: bold;
+}
